@@ -9,5 +9,7 @@ public class Main {
         katya.hello();
         Human artem = new Human(1995, "Артём", "Москва", "директор по развитию бизнеса");
         artem.hello();
+        Human vladimir = new Human(2001, "Владимир", "Казань", "");
+        vladimir.hello();
     }
 }
